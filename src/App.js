@@ -2,7 +2,6 @@ import "./App.css";
 import PreNavbar from "./components/PreNavbar";
 import Navbar from "./components/Navbar";
 import Slider from "./components/Slider";
-// import {banner} from './data/data'
 import data from "./data/data.json";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Offers from "./components/Offers";
